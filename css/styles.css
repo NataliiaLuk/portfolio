@@ -1,0 +1,90 @@
+:root {
+    --main-font: 'PT serif', sans-serif;
+}
+
+
+
+body {
+    font-family: var(--main-font);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1200px;
+
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.hero {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.hero h2 {
+    font-size: 1.5em;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.goal {
+    font-size: 1.1em;
+    color: #444;
+}
+
+.projects {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.projects-list h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.projects-item {
+    margin-bottom: 30px;
+}
+
+.projects-item h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.projects-item .description {
+    color: #666;
+}
+
+.projects-item a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+.contacts {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.mail {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.tel {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
