@@ -144,6 +144,8 @@ p {
 .footer {
     padding-top: 80px;
     padding-bottom: 80px;
+    width: 100%;
+    font-size: 20px;
 }
 
 .contact {
@@ -156,7 +158,6 @@ p {
 
 .footer-header {
     margin-bottom: 20px;
-
 }
 
 .mail {
