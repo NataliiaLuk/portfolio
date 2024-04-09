@@ -86,8 +86,6 @@ p {
     margin-left: auto;
    padding-top: 80px;
    padding-bottom: 80px;
-   margin-right: auto;
-   margin-left: auto;
 }
 
 
@@ -146,6 +144,12 @@ p {
     padding-bottom: 80px;
     width: 100%;
     font-size: 20px;
+    align-items: center;
+}
+
+.footer-container {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contact {
@@ -158,6 +162,7 @@ p {
 
 .footer-header {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .mail {
